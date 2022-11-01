@@ -3,4 +3,8 @@ These are Home Assistant (HA) addons that I have been working on for personal us
 You can install these addons by going into Home Assiastants addon store and adding this repository to your repository list.
 
 # Public Folders
-A simple HTTP web server for HA (see: https://github.com/Rusketh/RuskethsHomeAddons/blob/main/public_folders/DOCS.md).
+A simple HTTP web server for HA writen in Node JS.
+
+### Documentation
+https://github.com/Rusketh/RuskethsHomeAddons/blob/main/public_folders/DOCS.md
+
