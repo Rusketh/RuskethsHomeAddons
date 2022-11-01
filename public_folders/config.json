@@ -54,6 +54,11 @@
         "request_logging": "bool?",
         "directory_listing": "bool?",
         
+        "index": ["str?"],
+        "directory_listing": "bool",
+
+        "inherits": ["str?"],
+        
         "page_401?": "str",
         "page_402?": "str",
         "page_403?": "str",
