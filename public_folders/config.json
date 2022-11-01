@@ -1,7 +1,7 @@
 {
   "init": false,
   "slug": "public_folders",
-  "name": "Public Folders Development",
+  "name": "Public Folders",
   "version": "1.0.0",
   "description": "Public Folders.",
   "stage": "stable",
