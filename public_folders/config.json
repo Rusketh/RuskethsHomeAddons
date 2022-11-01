@@ -47,25 +47,25 @@
       {
         "url": "str",
         "path": "str",
-        "index": ["str"],
+        "index": ["str?"],
         "directory_listing": "bool",
 
-        "inherits": ["str"],
+        "inherits": ["str?"],
         
-        "page_401": "str",
-        "page_402": "str",
-        "page_403": "str",
-        "page_404": "str"
+        "page_401?": "str",
+        "page_402?": "str",
+        "page_403?": "str",
+        "page_404?": "str"
       }
     ],
 
-    "index": ["str"],
+    "index": ["str?"],
     "request_logging": "bool",
     "directory_listing": "bool",
 
-    "page_401": "str",
-    "page_402": "str",
-    "page_403": "str",
-    "page_404": "str"
+    "page_401": "str?",
+    "page_402": "str?",
+    "page_403": "str?",
+    "page_404": "str?"
   }
 }
