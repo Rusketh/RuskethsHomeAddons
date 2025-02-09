@@ -21,11 +21,11 @@
   ],
   "ports":
   {
-    "8080/tcp": 8044
+    "8044/tcp": 8044
   },
   "ports_description":
   {
-    "8080/tcp": "Port to serve files on."
+    "8044/tcp": "Port to serve files on."
   },
   "options":
   {
